@@ -1,0 +1,32 @@
+.nav-ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  height: 60px;
+  background: #134b8a;
+  color: white;
+}
+
+.nav-li {
+  float: right;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 10px;
+  text-decoration: none;
+  font-family: 'Kanit';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 157%;
+}
+
+.photo {
+  background: white;
+  border-radius: 47.5px;
+  height: 32px;
+  width: 32px;
+  left: 1271px;
+  top: 14px;
+}
